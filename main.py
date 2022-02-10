@@ -1,0 +1,8 @@
+print("200 is a great number")
+print(3.5)
+print("20 days are "  + str(50) + " minutes")
+print(20 * 24 * 60)
+print(f"20 days are {20 * 24 * 60} minutes")
+print(f"35 days are {35 * 24 * 60} minutes")
+print(f"110 days are {110 * 24 * 60} minutes")
+print(f"20 days are {20 * 24 * 60} minutes")
